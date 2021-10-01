@@ -1,4 +1,5 @@
 #Tarea de Sistemas operativos
+
 ##AUTOR
 lukas Pinto <lukas.pinto@alumnos.uv.cl>
 ##INSTRUCCIONES
