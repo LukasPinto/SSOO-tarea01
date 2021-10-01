@@ -1,10 +1,15 @@
 #Tarea de Sistemas operativos
+
 ##AUTOR
 lukas Pinto <lukas.pinto@alumnos.uv.cl>
+
 ##INSTRUCCIONES
 Para ejecutar el script se debe usar el siguiente comando estando dentro del directorio raiz
+
 Ejemplo:
     $ make all
+
+
 ##Diseño de solución
 El script implementado utiliza las variables de entorno que crea el mismo bash al ejecutar el archivo.sh
 Primero se rescatan los valores de los parametros utilizando el caracter $#, este entrega una lista con los valores de los parametros y luego se recorren con un for y se muestran
